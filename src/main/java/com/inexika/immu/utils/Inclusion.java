@@ -1,6 +1,6 @@
 package com.inexika.immu.utils;
 
-import com.codenotary.immudb.grpc.Schema;
+import com.codenotary.immudb.schema.Schema;
 import com.google.protobuf.ByteString;
 import org.apache.commons.codec.digest.DigestUtils;
 import org.apache.commons.lang3.ArrayUtils;
